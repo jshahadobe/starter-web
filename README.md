@@ -20,4 +20,4 @@ now adding more branches from myfeature branch
 
 ## Copyright
 
-Copyright 2021
+Copyright 2021.  All rights reserved.
